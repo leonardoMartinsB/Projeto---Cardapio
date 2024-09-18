@@ -1,3 +1,2 @@
-# Projeto---Cardapio
-
-https://leonardomartinsb.github.io/Projeto---Cardapio/
+Este projeto foi realizado com o objetivo de ampliar a capacidade de criação de websites para diferentes áreas de atuação, com foco na simplicidade e eficiência. A área escolhida foi a de comida, visando oferecer uma plataforma que permita a restaurantes, chefs, blogueiros gastronômicos e entusiastas da culinária criar e gerenciar seus próprios sites de forma fácil e intuitiva. O projeto busca democratizar o acesso a ferramentas de desenvolvimento web, facilitando a criação de cardápios online, blogs de receitas, portfólios culinários e outras plataformas que destaquem a diversidade e a criatividade no universo gastronômico.
+![image](https://github.com/user-attachments/assets/4295f2f5-af15-4cdb-9024-9a3c5ea47b77)
